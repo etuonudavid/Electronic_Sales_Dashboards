@@ -1,4 +1,4 @@
-# Sales Report Dashboard
+# Sales Report
 **DataDNA Dataset Challenge - December 2022**
 
 The dataset used in this project contains information about sales made by an electronic store.
